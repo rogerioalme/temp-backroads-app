@@ -5,8 +5,6 @@ import Services from './components/Services'
 import Tours from './components/Tours'
 import Footer from './Footer'
 
-import { pageLinks } from './data'
-
 function App() {
   return (
     <>
